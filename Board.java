@@ -389,7 +389,21 @@ public class Board extends JFrame {
             parCheck.setFocusPainted(false);
             //parCheck.setVisible(false);
             parCheck.setBounds(x3, y3, 20, 17);
-            //counters
+		
+	//counter
+            JTextField park = new JTextField();
+            park.setBounds(410, 677, 29, 25);
+            gameLabel.add(park);
+            
+            JTextField park2 = new JTextField();
+            park2.setBounds(410, 636, 29, 25);
+            gameLabel.add(park2);
+            
+            JTextField park3 = new JTextField();
+            park3.setBounds(410, 596, 29, 25);
+            gameLabel.add(park3);
+            
+            //parks result
             JTextField parks = new JTextField();
             parks.setOpaque(false);
             parks.setForeground(Color.BLACK);
