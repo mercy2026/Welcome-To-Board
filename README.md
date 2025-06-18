@@ -6,6 +6,7 @@ Each round 3 cards will be revealed from the deck. The player will choose which 
 The only catch is that the houses must go in ascending order.
 
 The Goal is to score the most points, by strategically placing house numbers and using the actions to your advantage.
+
 Some strategies:
 - Completing city plans
 - Consider the low or higher number early.
