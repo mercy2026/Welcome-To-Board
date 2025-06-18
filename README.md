@@ -1,5 +1,7 @@
 # Welcome-To-Board Game
-It is an interactive board game, where the player is an architect that has to build a neighborhood 
+It is an interactive board game, where the player is an architect that has to build a neighborhood.
+
+Summary:
 They create the neighborhood by filling up each of the houses on the sheet, with numbers.
 In this game there was a deck of cards. Each card will have a number and a corresponding action (Market, Fence, Pool, Park, Bis, and Construction). 
 Each round 3 cards will be revealed from the deck. The player will choose which one out of the three they will pick to place on one of their houses.
